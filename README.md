@@ -23,6 +23,3 @@ A responsive web app that fetches and displays popular movies using the TMDb API
 
 ## 📦 Deployment
 You can deploy it using platforms like Vercel or Netlify.
-
-
->>>>>>> ccc61fb39983976705fb8570c6cd826b80214d02
